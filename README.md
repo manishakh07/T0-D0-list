@@ -1,6 +1,3 @@
-Here's a README file tailored for the GitHub repository of your To-Do List application:
-
----
 
 # To-Do List 📝
 
